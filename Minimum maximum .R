@@ -1,0 +1,16 @@
+MINIMUM;;;
+
+diabetes<-read.csv("D:\\folders\\DWHDM\\diabetes.csv")
+
+A<-c(diabetes$Age)
+
+Minimum<-min(diabetes$Age)
+
+MAXIMUM;;;
+
+diabetes<-read.csv("D:\\folders\\DWHDM\\diabetes.csv")
+
+A<-c(diabetes$Age)
+
+Maximum<-max(diabetes$Age)
+
